@@ -1,0 +1,9 @@
+{
+    "title":"Where C# is used?",
+    "content":"C# was created by Microsoft for Microsoft, so it’s easy to see why it’s most popularly used for the development of Windows desktop applications. C# applications require the Windows .NET framework in order to function at their best, so the strongest use case for this language is developing applications and programs that are specific to the architecture of the Microsoft platform. C# is also used in game development, website development and many more places!!",
+    "metadesc": "C# was created by Microsoft for Microsoft, so it’s easy to see why it’s most popularly used for the",
+    "slug": "/blogpost/where-cs-is-used",
+    "month": "MAR",
+    "day": "4"
+
+}

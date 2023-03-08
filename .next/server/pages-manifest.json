@@ -1,0 +1,15 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.html",
+  "/api/getblogs": "pages/api/getblogs.js",
+  "/api/blogs": "pages/api/blogs.js",
+  "/api/postcontact": "pages/api/postcontact.js",
+  "/components/Navbar": "pages/components/Navbar.html",
+  "/contact": "pages/contact.html",
+  "/blog": "pages/blog.js",
+  "/blogpost/[slug]": "pages/blogpost/[slug].js",
+  "/": "pages/index.js",
+  "/404": "pages/404.html"
+}
