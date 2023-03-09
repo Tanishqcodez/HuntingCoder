@@ -95,7 +95,7 @@ export default function Home(props) {
 
 
 export async function getServerSideProps(context) {
-  let data = await fetch('http://localhost:3000/api/blogs')
+  let data = await fetch('https://coderhunting.netlify.app/api/blogs')
   let allBlogs = await data.json();
 
 
