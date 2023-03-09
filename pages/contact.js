@@ -11,7 +11,7 @@ export default function contact() {
 
     const data = { name ,email ,phone, message};
 
-    fetch("https://coderhunting.netlify.app/api/postcontact", {
+    fetch("http://localhost:3000/api/postcontact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

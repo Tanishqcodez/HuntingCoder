@@ -29,7 +29,7 @@ export default slug
 
 export async function getServerSideProps(context) {
     const {slug} = context.query
-    let data = await fetch(`https://coderhunting.netlify.app/api/getblogs?slug=${slug}`)
+    let data = await fetch(`http://localhost:3000/api/getblogs?slug=${slug}`)
     let myblog = await data.json()
 
     return {
